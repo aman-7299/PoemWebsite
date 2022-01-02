@@ -1,0 +1,3 @@
+Githug githug 
+is type of hug 
+where we create repo.
